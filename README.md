@@ -1,0 +1,1 @@
+First smart contract
